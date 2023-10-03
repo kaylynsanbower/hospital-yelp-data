@@ -3,7 +3,7 @@
 This repository contains the code to process a dataset of web scraped Yelp reviews.
 
 ## Raw Data 
-The raw data used in these code files is pulled from Yelp using the code detailed in this [Jupiter Notebook] (link to pablo's notebook.)
+The raw data used in these code files was scraped from Yelp. The scraping occurred in early 2019, so when generating any datasets with these Yelp data, we stop a the end of 2018.
 
 ## Code Files
 The master code file (0-hospital-yelp-data.R) runs all of the subsequent raw code files (files number 1 through 5). The raw code files are written such that they can each be run independently, but one can rely on the master code file (0-hospital-yelp-data.R) to take the data from raw to final form. 
